@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/garfields/static/css/main.feeb800e.css",
+    "main.js": "/garfields/static/js/main.0a43817a.js",
+    "static/js/787.650e92fa.chunk.js": "/garfields/static/js/787.650e92fa.chunk.js",
+    "static/media/rawpixel.jpg": "/garfields/static/media/rawpixel.0062520332be030464d8.jpg",
+    "static/media/SPRL4382 (2).jpg": "/garfields/static/media/SPRL4382 (2).c0d3b368df90b08e4955.jpg",
+    "static/media/2021-10-01 (1).png": "/garfields/static/media/2021-10-01 (1).bcb846dc320f20ea008f.png",
+    "static/media/2021-09-26.png": "/garfields/static/media/2021-09-26.9d1a36b93b9ec54ce0bc.png",
+    "static/media/2021-10-01.png": "/garfields/static/media/2021-10-01.53efe4143edd013d166b.png",
+    "static/media/2021-10-01 (2).png": "/garfields/static/media/2021-10-01 (2).fece280c73585f5695a1.png",
+    "static/media/jpg": "/garfields/static/media/1919548742684707999.2470cfc572e5a40ae30a.jpg",
+    "static/media/-jpg": "/garfields/static/media/-7347282435311599461.4f2b8854c8746a76f420.jpg",
+    "static/media/Garfield's truck.jpg": "/garfields/static/media/Garfield's truck.dc7435f425e828dcf7f2.jpg",
+    "static/media/2021-08-29.jpg": "/garfields/static/media/2021-08-29.e958cd86a1863fc0a312.jpg",
+    "static/media/irrigation.jpg": "/garfields/static/media/irrigation.321ea3ba8d65682e51e3.jpg",
+    "static/media/2020-08-02.png": "/garfields/static/media/2020-08-02.eba06a1e21c63b01a0b3.png",
+    "static/media/2021-06-06.jpg": "/garfields/static/media/2021-06-06.ec561b3302b70597b5ac.jpg",
+    "static/media/2021-06-06 (1).jpg": "/garfields/static/media/2021-06-06 (1).884d4c0640bdb8985d83.jpg",
+    "static/media/Accredited_Business_Black_logo.png": "/garfields/static/media/Accredited_Business_Black_logo.bdcc664005b4e30379bd.png",
+    "static/media/2021-06-06 (2).jpg": "/garfields/static/media/2021-06-06 (2).41bea3d8cee98987cdcd.jpg",
+    "static/media/2021-05-04 (1).jpg": "/garfields/static/media/2021-05-04 (1).eef7b8a05b359bd51ffc.jpg",
+    "static/media/2021-05-04.jpg": "/garfields/static/media/2021-05-04.d194f3f445bbf798e807.jpg",
+    "static/media/Garfield's Logo.jpg": "/garfields/static/media/Garfield's Logo.1be5c9eadbb296cc0924.jpg",
+    "index.html": "/garfields/index.html",
+    "main.feeb800e.css.map": "/garfields/static/css/main.feeb800e.css.map",
+    "main.0a43817a.js.map": "/garfields/static/js/main.0a43817a.js.map",
+    "787.650e92fa.chunk.js.map": "/garfields/static/js/787.650e92fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feeb800e.css",
+    "static/js/main.0a43817a.js"
+  ]
+}
