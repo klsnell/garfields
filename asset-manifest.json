@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/garfields/static/css/main.feeb800e.css",
-    "main.js": "/garfields/static/js/main.0a43817a.js",
+    "main.css": "/garfields/static/css/main.f0c66aca.css",
+    "main.js": "/garfields/static/js/main.e19b2f71.js",
     "static/js/787.650e92fa.chunk.js": "/garfields/static/js/787.650e92fa.chunk.js",
-    "static/media/rawpixel.jpg": "/garfields/static/media/rawpixel.0062520332be030464d8.jpg",
+    "static/media/open desert.jpg": "/garfields/static/media/open desert.ec8a9465cfb8dab39cf2.jpg",
     "static/media/SPRL4382 (2).jpg": "/garfields/static/media/SPRL4382 (2).c0d3b368df90b08e4955.jpg",
     "static/media/2021-10-01 (1).png": "/garfields/static/media/2021-10-01 (1).bcb846dc320f20ea008f.png",
     "static/media/2021-09-26.png": "/garfields/static/media/2021-09-26.9d1a36b93b9ec54ce0bc.png",
@@ -23,12 +23,12 @@
     "static/media/2021-05-04.jpg": "/garfields/static/media/2021-05-04.d194f3f445bbf798e807.jpg",
     "static/media/Garfield's Logo.jpg": "/garfields/static/media/Garfield's Logo.1be5c9eadbb296cc0924.jpg",
     "index.html": "/garfields/index.html",
-    "main.feeb800e.css.map": "/garfields/static/css/main.feeb800e.css.map",
-    "main.0a43817a.js.map": "/garfields/static/js/main.0a43817a.js.map",
+    "main.f0c66aca.css.map": "/garfields/static/css/main.f0c66aca.css.map",
+    "main.e19b2f71.js.map": "/garfields/static/js/main.e19b2f71.js.map",
     "787.650e92fa.chunk.js.map": "/garfields/static/js/787.650e92fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.feeb800e.css",
-    "static/js/main.0a43817a.js"
+    "static/css/main.f0c66aca.css",
+    "static/js/main.e19b2f71.js"
   ]
 }
